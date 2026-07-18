@@ -209,6 +209,3 @@ Through this project, I developed practical knowledge of:
 - Market opportunity assessment
 
 ---
-## Project Status
-
-Completed
